@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(233, 231, 221);
+  background-color: rgb(245, 229, 196);
 }
 
 #header1 {
@@ -21,4 +21,23 @@ body {
 }
 #link-1 {
   text-decoration: none;
+  color: orange;
+}
+#link-1:visted {
+  text-decoration: none;
+  color: orange;
+}
+#link-1:hover {
+  cursor: pointer;
+  color: orange;
+}
+#link-1-anchor {
+  text-decoration: none;
+  color: orange;
+}
+
+#dog-pic {
+  position: relative;
+  top: 50px;
+  left: 430px;
 }
