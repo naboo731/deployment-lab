@@ -15,12 +15,29 @@ body {
 
 #dog-pic {
   position: relative;
-  top: 50px;
   left: 430px;
 }
-
-#links {
+#link1 {
   position: relative;
-  left: 540px;
-  display: space-evenly;
+  left: 250px;
+}
+#link2 {
+  position: relative;
+  left: 545px;
+  bottom: 35px;
+}
+#link3 {
+  position: relative;
+  left: 1000px;
+  bottom: 70px;
+}
+
+.internet-link,
+.internet-link:hover,
+.internet-link:active,
+.internet-link:visited,
+.internet-link:focus {
+  text-decoration: none;
+  color: rgb(85, 119, 74);
+  font-size: 30px;
 }
