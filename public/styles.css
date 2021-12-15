@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(245, 229, 196);
+  background-color: rgb(231, 230, 179);
 }
 
 #header1 {
@@ -7,37 +7,20 @@ body {
   left: 450px;
   font-size: 40px;
 }
-
-#header2 {
-  position: relative;
-  left: 500px;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-}
-
 #header3 {
   position: relative;
-  left: 600px;
+  left: 590px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-}
-#link-1 {
-  text-decoration: none;
-  color: orange;
-}
-#link-1:visted {
-  text-decoration: none;
-  color: orange;
-}
-#link-1:hover {
-  cursor: pointer;
-  color: orange;
-}
-#link-1-anchor {
-  text-decoration: none;
-  color: orange;
 }
 
 #dog-pic {
   position: relative;
   top: 50px;
   left: 430px;
+}
+
+#links {
+  position: relative;
+  left: 540px;
+  display: space-evenly;
 }
