@@ -19,6 +19,7 @@ body {
 #dog-pic {
   position: relative;
   left: 430px;
+  border-radius: 500px;
 }
 #link1 {
   position: relative;
