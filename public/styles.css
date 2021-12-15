@@ -24,16 +24,28 @@ body {
 #link1 {
   position: relative;
   left: 250px;
+  cursor: pointer;
+}
+#link1:hover {
+  color: white;
 }
 #link2 {
   position: relative;
   left: 545px;
   bottom: 35px;
+  cursor: pointer;
+}
+#link2:hover {
+  color: white;
 }
 #link3 {
   position: relative;
   left: 1000px;
   bottom: 70px;
+  cursor: pointer;
+}
+#link3:hover {
+  color: white;
 }
 
 .internet-link,
